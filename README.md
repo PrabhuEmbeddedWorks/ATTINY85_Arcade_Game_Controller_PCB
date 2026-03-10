@@ -20,7 +20,6 @@
 | FreeRouting Plugin | Autorouting of PCB tracks |
 | Java JRE | Runtime required for FreeRouting |
 | Inkscape | Creating custom PCB outline (DXF import) |
-| GitHub | Version control and project hosting |
 
 ## System Architecture
 
